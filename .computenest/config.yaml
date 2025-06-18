@@ -66,8 +66,8 @@ Artifact:
     ArtifactBuildProperty:
       CodeRepo:
         Platform: github
-        Owner: JJGGu
-        RepoName: JJGGu/quickstart-LobeChat
+        Owner: aliyun-computenest
+        RepoName: aliyun-computenest/quickstart-LobeChat
         Branch: main
       RegionId: ap-southeast-1
       CommandType: RunShellScript
