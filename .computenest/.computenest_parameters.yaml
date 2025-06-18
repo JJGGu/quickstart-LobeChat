@@ -2,11 +2,11 @@ RuntimeType: Container
 ServiceType: private
 ArtifactSourceType: DockerCompose
 ServiceBuildRegion: ap-southeast-1
-RepoName: aliyun-computenest/quickstart-LobeChat
+RepoName: JJGGu/quickstart-LobeChat
 DockerComposeEnvPath: .env
 RegionId: cn-hangzhou
 CustomParameters: ''
 DockerComposeYamlPath: docker-compose.yaml
-Owner: LYH-RAIN
+Owner: JJGGu
 Branch: main
 Platform: github
